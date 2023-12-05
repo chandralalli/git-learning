@@ -1,2 +1,1 @@
-Hi 
-this is a new git learning platform
+this is a addition to file1 
